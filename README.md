@@ -8,5 +8,5 @@ https://paperswithcode.com/sota
 https://github.com/ChanChiChoi/awesome-Face_Recognition
 
 ## 3.CV2019
-https://github.com/amusi/CVPR2019-Code
-https://github.com/extreme-assistant/cvpr2019
+* https://github.com/amusi/CVPR2019-Code
+* https://github.com/extreme-assistant/cvpr2019
